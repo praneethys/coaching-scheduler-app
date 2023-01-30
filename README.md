@@ -35,25 +35,24 @@ The app architecture is very simple and straightforward. The app allows a person
 
 ### Future:
 1. UI
-  Display Coach name, Student name in the dashboards
-  Ability for Coach to cancel or change their availability
-  Ability for Coach to set availability in any timezone
-  Ability for Student to cancel an already scheduled future appointment
-  Ability for Coach to edit an already submitted feedback
-  Ability for Coach to share feedback with a Student
+  1. Display Coach name, Student name in the dashboards
+  2. Ability for Coach to cancel or change their availability
+  3. Ability for Coach to set availability in any timezone
+  4. Ability for Student to cancel an already scheduled future appointment
+  5. Ability for Coach to edit an already submitted feedback
+  6. Ability for Coach to share feedback with a Student
 2. Infra / UI
-  Website login authentication
-  Frontend <-> Backend API authentication
-  Backend <-> Database connection authentication 
-  Offline mode
-  App accessibility considerations
-  Ability to switch between Light/dark modes
-  Ability to integrate with GCal
-  Make the website mobile friendly
+  1. Website login authentication
+  2. Frontend <-> Backend API authentication
+  3. Backend <-> Database connection authentication 
+  4. Offline mode
+  5. App accessibility considerations
+  6. Ability to switch between Light/dark modes
+  7. Ability to integrate with GCal
+  8. Make the website mobile friendly
 3. Backend
-  Validation for Coach availability dates. i.e., dates are not in the past, a selected availability shouldn't overlap an already existing slot for a given Coach, begin and end times of a slot are always 2 hours apart etc.
+  1. Validation for Coach availability dates. i.e., dates are not in the past, a selected availability shouldn't overlap an already existing slot for a given Coach, begin and end times of a slot are always 2 hours apart etc.
 4. Tests
-  Frontend unit tests
-  Enhance backend unit tests
-  End-to-end tests
-
+  1. Frontend unit tests
+  2. Enhance backend unit tests
+  3. End-to-end tests
