@@ -24,4 +24,5 @@ The app architecture is very simple and straightforward. The app allows a person
 ![image](https://user-images.githubusercontent.com/61710414/215510598-3eff1eb1-a844-4401-8a38-249fa5d02f38.png)
 
 
-![image](https://user-images.githubusercontent.com/61710414/215509884-f24f8402-0d61-41ad-94a0-0dc2fcf83768.png)
+![image](https://user-images.githubusercontent.com/61710414/215510973-84e36676-9718-47d2-adc9-7eaa67c04f18.png)
+
